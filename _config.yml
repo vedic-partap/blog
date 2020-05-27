@@ -1,0 +1,32 @@
+highlighter: rouge
+permalink: none
+kramdown:
+  input: GFM
+  hard_wrap: false
+repository: vedic-partap/blog
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:year/:month/:day/:title/
+google_analytics: 'UA-40495390-2'
+title: Vedic
+description: Vedic's Opinion.
+url: https://vedicpartap.com/blog/
+author: Vedic Partap
+twitter:
+  username: vedic-partap
+logo: images/contents/NN.png
+social:
+  name: Vedic Partap
+  links:
+    - https://www.linkedin.com/in/vedic-partap
+    - https://github.com/vedic-partap
+    - https://speakerdeck.com/herculan/
