@@ -10,6 +10,6 @@ task :test do
     :file_ignore => [],
     :url_ignore => [
       "/mac-setup",
-      "http://www.linkedin.com/in/vedic-partap/"]
+      "https://www.linkedin.com/in/vedic-partap/"]
     }).run
 end

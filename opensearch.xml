@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
-	xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<OpenSearchDescription xmlns="https://a9.com/-/spec/opensearch/1.1/"
+	xmlns:moz="https://www.mozilla.org/2006/browser/search/">
   <Description>Search Vedic's website</Description>
   <SearchForm>https://vedicpartap.com/</SearchForm>
   <moz:SearchForm>https://vedicpartap.com/</moz:SearchForm>

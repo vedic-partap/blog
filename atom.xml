@@ -1,9 +1,9 @@
 ---
 layout: null
-site_url: http://vedicpartap.com
+site_url: https://vedicpartap.com
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
 
 <title>Vedic Partap</title>
 <link href="{{ page.site_url }}/atom.xml" rel="self"/>
